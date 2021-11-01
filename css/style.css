@@ -136,54 +136,17 @@ body {
 }
 
 .languages-item {
-  display: block;
-  position: relative;
   font-size: 16px;
   font-weight: 400;
   line-height: 24px;
   margin-left: 15px;
+  color: #c75b14;
 }
 
 .languages-text {
   color: #abb2bb;
   margin-right: 20px;
   line-height: 10px;
-}
-
-.languages-nations {
-  font-size: 13px;
-  margin-right: 12px;
-  position: absolute;
-}
-
-.languages-circle-english {
-  position: absolute;
-  right: 286px;
-  top: 17px;
-  background: #c75b14;
-  clip-path: circle(50%);
-  height: 0.35em;
-  width: 0.35em;
-}
-
-.languages-circle-ukraine {
-  position: absolute;
-  right: 286px;
-  top: 17px;
-  background: #c75b14;
-  clip-path: circle(50%);
-  height: 0.35em;
-  width: 0.35em;
-}
-
-.languages-circle-russia {
-  position: absolute;
-  right: 286px;
-  top: 17px;
-  background: #c75b14;
-  clip-path: circle(50%);
-  height: 0.35em;
-  width: 0.35em;
 }
 
 .profession {
