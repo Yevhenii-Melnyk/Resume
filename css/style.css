@@ -158,7 +158,8 @@ body {
 .name {
   font-size: 45px;
   font-weight: 700;
-  line-height: 89px;
+  line-height: 60px;
+  margin-top: 15px;
 }
 
 .summary {
